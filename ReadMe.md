@@ -107,8 +107,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/DhruvJDev/Vaani-present
-   cd Vaani-A.I
+   git clone https://github.com/DhruvJDev/Vaani-Voice-Assistant
    ```
 
 2. **Install PortAudio (required for PyAudio):**

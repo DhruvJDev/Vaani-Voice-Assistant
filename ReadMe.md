@@ -1,6 +1,6 @@
-# Vanni Assistance 🤖
+# Vaani Assistance 🤖
 
-**Vanni** is your intelligent personal assistant designed to help you manage everyday tasks effortlessly. From organizing your schedule and setting reminders to assisting with work and offering useful suggestions, Vanni AI is built to make your daily life smarter and more productive. With its intuitive design and wide range of functionalities, you can rely on Vanni AI to perform actions quickly, efficiently, and with ease.
+**Vaani** is your intelligent personal assistant designed to help you manage everyday tasks effortlessly. From organizing your schedule and setting reminders to assisting with work and offering useful suggestions, Vaani AI is built to make your daily life smarter and more productive. With its intuitive design and wide range of functionalities, you can rely on Vaani AI to perform actions quickly, efficiently, and with ease.
 
 
 ## ✅ Things will complete
@@ -82,8 +82,8 @@
 
 1. **Clone the repository:**
    ```powershell
-   git clone https://github.com/DhruvJDev/Vanni-present
-   cd Vanni-A.I
+   git clone https://github.com/DhruvJDev/Vaani-present
+   cd Vaani-A.I
    ```
 
 2. **Install Python dependencies:**
@@ -108,8 +108,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/DhruvJDev/Vanni-present
-   cd Vanni-A.I
+   git clone https://github.com/DhruvJDev/Vaani-present
+   cd Vaani-A.I
    ```
 
 2. **Install PortAudio (required for PyAudio):**

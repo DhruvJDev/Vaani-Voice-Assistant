@@ -82,8 +82,7 @@
 
 1. **Clone the repository:**
    ```powershell
-   git clone https://github.com/DhruvJDev/Vaani-present
-   cd Vaani-A.I
+   git clone https://github.com/DhruvJDev/Vaani-Voice-Assistant
    ```
 
 2. **Install Python dependencies:**
